@@ -1,6 +1,6 @@
 ## Renato Alvarez Ramos
-#Civil Engineering in Computer Science mention in Informatics student, fifth year
-#Research Assistant at Data-Driven Complex Systems Lab - UTEM
+# Civil Engineering in Computer Science mention in Informatics student, fifth year
+# Research Assistant at Data-Driven Complex Systems Lab - UTEM
 
 Currently working on:
 - Genome Defender: Deeplearning powered CLI tool that verifies the integrity of genomic datasets in order to protect them against data poisoning attacks
