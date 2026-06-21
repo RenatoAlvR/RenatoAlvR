@@ -1,6 +1,6 @@
-# Renato Alvarez Ramos
-## Civil Engineering in Computer Science mention in Informatics student, fifth year
-### Research Assistant at Data-Driven Complex Systems Lab - UTEM
+# Civil Engineering in Computer Science mention in Informatics student
+## Research Assistant at Data-Driven Complex Systems Lab - UTEM
+### ISC2 Certified in Cybersecurity
 
 Currently working on:
 - Genome Defender: Deeplearning powered CLI tool that verifies the integrity of genomic datasets in order to protect them against data poisoning attacks
@@ -13,7 +13,7 @@ My current learning topics are:
 - SIEM Tools
 
 How to reach me:
-Mainly via email, alvarezra.renato@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/renatoalvr)
 
 Useful links
 - [Cybersecurity Today I Learned (TIL)](https://github.com/RenatoAlvR/Cybersecurity-TIL) - My own learning notes regarding variousn topics in Cybersecurity
